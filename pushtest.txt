@@ -1,3 +1,4 @@
 push.test!
-–{“ú‚Í°“V‚È‚è
-–¾“ú‚à°‚ê‚é‚Å‚µ‚å‚¤
+import os
+select * from shohin
+where shohinbunrui = ? 
