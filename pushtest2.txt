@@ -1,0 +1,6 @@
+ng queen erizabesu
+import os
+select * from shohin
+where shohinbunrui = ?
+sinnkinituika hhhhhhhh 
+gggggg
