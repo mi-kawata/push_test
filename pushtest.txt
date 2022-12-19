@@ -3,3 +3,4 @@ import os
 select * from shohin
 where shohinbunrui = ?
 sinnkinituika hhhhhhhh 
+import test
