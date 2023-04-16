@@ -6,3 +6,4 @@ sinnkinituika hhhhhhhh
 import test
 print('test')
 gagagag
+test test
